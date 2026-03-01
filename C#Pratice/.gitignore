@@ -1,0 +1,12 @@
+.vs/
+[Bb]in/
+[Oo]bj/
+*.vsidx
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+Thumbs.db
+ehthumbs.db
+Desktop.ini
